@@ -1,3 +1,4 @@
 Test file line 1
 Line 2 test to validate workflow trigger
 Line 3 test push trigger
+Line 4 to test self hosted run but in stopped state
