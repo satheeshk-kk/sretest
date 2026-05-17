@@ -4,8 +4,8 @@ name: CI
 on:
   push:
     branches: [ "main" ]  
-  pull_request:
-    branches: [ "main" ]
+    paths:
+      - 'math.js'           # Matches a specific file name  
 
   workflow_dispatch:
 
